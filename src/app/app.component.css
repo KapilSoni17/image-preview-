@@ -1,0 +1,17 @@
+
+form{
+  background-color: #00C5BE;
+  border: none;
+  color: #fff;
+  font-size: 1em;
+  padding: 10px 50px;
+  text-transform: uppercase;
+  font-weight: normal;
+}
+#submit{
+  align-content: center;
+}
+
+#lastdiv{
+  background-color: lightpink;
+}
